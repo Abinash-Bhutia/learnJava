@@ -8,7 +8,7 @@ public class composite_And_Prime {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a Number: ");
         int n = sc.nextInt();
-        boolean flag = true;
+        boolean flag = true;   //git
 
         for(int i=2; i<=n-1; i++){
             if(n%i == 0){
