@@ -7,8 +7,6 @@ public class composite_And_Prime {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a Number: ");
-        // System.out.print("Hello world");
-        // System.out.print("Hello world");
         int n = sc.nextInt();
         boolean flag = true;
 
