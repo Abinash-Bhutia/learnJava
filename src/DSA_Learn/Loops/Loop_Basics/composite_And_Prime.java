@@ -17,7 +17,6 @@ public class composite_And_Prime {
             }
         }
 
-
         if(n==1) System.out.println("Neither Prime nor Composite");
         else if(flag == false) System.out.println("Composite number");
         else System.out.println("Prime number");
