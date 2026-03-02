@@ -21,4 +21,4 @@ public class factorial_loop_12 {
     }
 }
 
-// Factoril no.s
+// Factoril 
