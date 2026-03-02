@@ -20,4 +20,3 @@ public class factorial_loop_12 {
         System.out.println(f);
     }
 }
-
