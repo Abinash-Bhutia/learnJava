@@ -1,6 +1,6 @@
 package DSA_Learn.Loops.patterns.stars_Printing;
 
-import java.util.Scanner;               // Question another
+import java.util.Scanner;               // Question another one
 
 public class Bridge {
     public static void main(String[] args) {
