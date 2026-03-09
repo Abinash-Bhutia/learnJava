@@ -19,7 +19,7 @@ public class Pyramid {
             nst += 2;
             System.out.println();
         }
-        /// 
+        /// pyramid Question
     }
 
 }
