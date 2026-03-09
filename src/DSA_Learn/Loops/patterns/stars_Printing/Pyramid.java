@@ -1,5 +1,4 @@
 package DSA_Learn.Loops.patterns.stars_Printing;
-
 import java.util.Scanner;
 
 public class Pyramid {
