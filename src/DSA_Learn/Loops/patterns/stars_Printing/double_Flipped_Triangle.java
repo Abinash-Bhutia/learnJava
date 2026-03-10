@@ -18,4 +18,4 @@ public class double_Flipped_Triangle {
         }
     }
 }
-// double flipped
+// double flipped question
