@@ -15,4 +15,4 @@ public class reverse_triangle {
         }
     }
 }
-// reverse trinagle qestion
+// reverse trinagle qestion add
