@@ -15,4 +15,4 @@ public class reverse_triangle {
         }
     }
 }
-// reverse
+// reverse trinagle
