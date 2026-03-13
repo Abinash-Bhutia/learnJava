@@ -16,6 +16,6 @@ public class star_Cross {
             }
             System.out.println();
         }
-        System.out.println("only ");
+        System.out.println("only for");
     }
 }
