@@ -17,6 +17,6 @@ public class star_Cross {
             System.out.println();
         }
         System.out.println("only for");
-        System.out.println("only for");
+        System.out.println("only for odd");
     }
 }
